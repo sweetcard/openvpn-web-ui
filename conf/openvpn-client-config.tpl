@@ -11,6 +11,7 @@ keysize {{ .Keysize }}
 auth {{ .Auth }}
 tls-client
 
+
 ca {{ .Ca }}
 cert {{ .Cert }}
 key {{ .Key }}
